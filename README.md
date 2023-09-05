@@ -1,7 +1,7 @@
-****Introduction:****
 
-Mental health is crucial for overall well-being and affects productivity and quality of life, especially in the workplace.
-Objective: Develop a machine learning model to predict mental health conditions in tech industry workers.
+**Objective:**
+
+Develop a machine learning model to predict mental health conditions in tech industry workers.
 
 **Link for the dataset:**
 
