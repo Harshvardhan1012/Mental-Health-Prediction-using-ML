@@ -41,9 +41,6 @@ Evaluated model performance using multiple metrics:
 
 ![image](https://github.com/Harshvardhan1012/Mental-Health-Prediction-using-ML/assets/142202090/bc01a099-f29d-4d46-8dbd-dd64c3591509)
 
-4)KNN
-
-![image](https://github.com/Harshvardhan1012/Mental-Health-Prediction-using-ML/assets/142202090/735f2e4b-06b1-4b01-902b-b6309de5cead)
 
 
 ## Implications:
